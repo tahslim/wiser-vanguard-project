@@ -52,7 +52,7 @@ Execution time comparison showing quantum advantage in scaling:
 
 ---
 
-### 📊 Performance Summary
+### Performance Summary
 
 | Method          | Cost Value | Time (s) | Tracking Error | Success Rate |
 |----------------|------------|----------|----------------|--------------|
@@ -60,7 +60,7 @@ Execution time comparison showing quantum advantage in scaling:
 | QAOA (p=3)     | 0.0418     | 28.7     | 8.5 bps        | 94%          |
 | **QAOA+CVaR**  | **0.0413** | **31.2** | **8.3 bps**    | **98%**      |
 
-✅ **Near-optimal results with significantly faster runtime**
+**Near-optimal results with significantly faster runtime**
 
 Project Presentation Deck  
 📄 [View Presentation Slides (PDF)](https://github.com/tahslim/wiser-vanguard-project/raw/main/challenge_proposal.pdf)  
