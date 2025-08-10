@@ -63,7 +63,7 @@ Execution time comparison showing quantum advantage in scaling:
 **Near-optimal results with significantly faster runtime**
 
 Project Presentation Deck  
-📄 [View Presentation Slides (PDF)](https://github.com/tahslim/wiser-vanguard-project/raw/main/challenge_proposal.pdf)  
+📄 [View Presentation Slides (PDF)](https://github.com/tahslim/wiser-vanguard-project/raw/main/presentation_deck.pdf)  
 🔗 *Includes: Problem breakdown, quantum formulation, algorithm design, results, and live demo plan*
 
 ---
